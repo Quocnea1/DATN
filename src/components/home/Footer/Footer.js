@@ -39,7 +39,6 @@ const Footer = () => {
             </p>
             <ul className="flex items-center gap-2">
               <a
-                href="https://www.youtube.com/@reactjsBD"
                 target="_blank"
                 rel="noreferrer"
               >
@@ -48,7 +47,6 @@ const Footer = () => {
                 </li>
               </a>
               <a
-                href="https://github.com/noorjsdivs"
                 target="_blank"
                 rel="noreferrer"
               >
@@ -57,7 +55,6 @@ const Footer = () => {
                 </li>
               </a>
               <a
-                href="https://www.facebook.com/Noorlalu143/"
                 target="_blank"
                 rel="noreferrer"
               >
@@ -66,7 +63,6 @@ const Footer = () => {
                 </li>
               </a>
               <a
-                href="https://www.linkedin.com/in/noor-mohammad-ab2245193/"
                 target="_blank"
                 rel="noreferrer"
               >
